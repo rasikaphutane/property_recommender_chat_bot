@@ -25,14 +25,15 @@ const PORT = process.env.PORT || 3001;
 const geminiService = new GeminiService();
 
 // CORS configuration - MODIFIED SECTION
-app.use(cors({
+/*app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:3000',
     'https://property-recommender-chat-bot.netlify.app/'
   ],
   credentials: true
-}));
+}));*/
+app.use(cors());
 
 app.use(express.json());
 
