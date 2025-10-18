@@ -29,7 +29,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:3000',
-    'https://your-netlify-app.netlify.app'
+    'https://property-recommender-chat-bot.netlify.app/'
   ],
   credentials: true
 }));
