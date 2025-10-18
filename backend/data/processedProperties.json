@@ -1,0 +1,378 @@
+[
+  {
+    "id": "cmf53kkzy000fvcu8tx8jwjmr",
+    "projectName": "Ashwini",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": 1,
+    "price": 11111111,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 123,
+    "slug": "luxury-ashwini-ashoknagar-chembur-mumbai-675058",
+    "builder": "Ashwini Builders",
+    "fullAddress": "Mumbai chembur",
+    "pincode": "411017",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmf5r6hv00001vxptnfichhfl",
+    "projectName": "Pristine02",
+    "city": "Pune",
+    "locality": "Unknown Locality",
+    "bhk": 2,
+    "price": 120000000,
+    "possession": "Ready to Move",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 972,
+    "slug": "pristine02-modelcolony-shivajinagar-pune-428955",
+    "builder": "Pristine02 Builders",
+    "fullAddress": "sr no 13 beside godrej, opposite to mca stadium, sai nagar, mamurdi, pune ",
+    "pincode": "412101",
+    "projectType": "RESIDENTIAL",
+    "status": "READY_TO_MOVE"
+  },
+  {
+    "id": "cmfawdrno0007vc18l0fm0z2j",
+    "projectName": "Gurukripa",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": 1,
+    "price": 13000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 426.57,
+    "slug": "gurukripa-ashoknagar-chembur-mumbai-086047",
+    "builder": "Gurukripa Builders",
+    "fullAddress": "Sindhi Society, Near Swami Vivekanand Jr College, Chembur, Mumbai Harbour, Mumbai",
+    "pincode": "400071",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfaxq2oo0020vc1806nmle00",
+    "projectName": "Hari om",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": 1,
+    "price": 13000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 443.37,
+    "slug": "hari-om-ashoknagar-chembur-mumbai-650559",
+    "builder": "Hari Builders",
+    "fullAddress": "Cts 300, plot no 37, opposite midtown 71, Sindhi Society, Chembur, Mumbai, Maharashtra 400071",
+    "pincode": "400069",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfaycwy70036vc18ppmb8mwh",
+    "projectName": "Om makarand heights",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": 1,
+    "price": 85000000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 379,
+    "slug": "om-makarand-heights-ashoknagar-chembur-mumbai-716337",
+    "builder": "Om Builders",
+    "fullAddress": "104, Yashvant Seth Jadhav Marg, Gauri Shankar Wadi No. 2, Savitribai Phule Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400075",
+    "pincode": "400075",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfc6pq1k0001vca0ikzb258m",
+    "projectName": "Sainath Vrindavan",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": 1,
+    "price": 12000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 457.57,
+    "slug": "luxury-sainath-vrindavan-ashoknagar-chembur-mumbai-216861",
+    "builder": "Sainath Builders",
+    "fullAddress": "Prataprao Gujar Rd Neelam Nagar Mulund East Mumbai Maharashtra 400081",
+    "pincode": "400081",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfc80zv1002dvca0hcgoc6ea",
+    "projectName": "Swaroop Aditya Avenue",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": null,
+    "price": 5975000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 239,
+    "slug": "swaroop-aditya-avenue-ashoknagar-chembur-mumbai-422427",
+    "builder": "Swaroop Builders",
+    "fullAddress": "Swaroop Aditya Avenue, Sheraton Hotel, Marol Pipeline Rd, near Itc Maratha, Kanti Nagar, J B Nagar, Andheri East, Mumbai, Maharashtra 400099",
+    "pincode": "400099",
+    "projectType": "COMMERCIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfc8w1e8003dvca0yvieggaz",
+    "projectName": "Marigold miraaya ",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": 2,
+    "price": 8900000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 637.76,
+    "slug": "luxury-marigold-miraaya--ashoknagar-chembur-mumbai-870766",
+    "builder": "Marigold Builders",
+    "fullAddress": "Marigold Miraaya, Purushottam Kheraj Rd, Asha Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "pincode": "400080",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfcd6uup005fvca03vhph9j1",
+    "projectName": "Bhoomi antara ",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": 2,
+    "price": 17000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 518.71,
+    "slug": "luxury-bhoomi-antara--ashoknagar-chembur-mumbai-093979",
+    "builder": "Bhoomi Builders",
+    "fullAddress": "3WG5+CHM, 90 Feet Rd, Garodia Nagar, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "pincode": "400077",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfcdo9ei006gvca0wq9t8usr",
+    "projectName": "Arkade Prime",
+    "city": "Mumbai",
+    "locality": "Unknown Locality",
+    "bhk": 1,
+    "price": 12000000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 425.39,
+    "slug": "luxury-arkade-prime-ashoknagar-chembur-mumbai-906049",
+    "builder": "Arkade Builders",
+    "fullAddress": "Makwana Rd, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "pincode": "400059",
+    "projectType": "BOTH",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfdmdqmq0008vc90svu2sfto",
+    "projectName": "Antriksh",
+    "city": "Pune",
+    "locality": "Unknown Locality",
+    "bhk": 1,
+    "price": 5649000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 269.1,
+    "slug": "luxury-antriksh-somwarpeth-camp-pune-997560",
+    "builder": "Antriksh Builders",
+    "fullAddress": "CTS NO 391, Station Rd, opp. Zilla Parishad, Mangalwar Peth, Somwar Peth, Pune, Maharashtra 411011",
+    "pincode": "411011",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfdnk2rz001rvc90t6aa3f0e",
+    "projectName": "16 Lakaki",
+    "city": "Pune",
+    "locality": "Shivajinagar",
+    "bhk": 5,
+    "price": 55800000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 2650,
+    "slug": "16-lakaki-modelcolony-shivajinagar-pune-470663",
+    "builder": "16 Builders",
+    "fullAddress": "1102/A/48, Lakaki Rd, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "pincode": "411016",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfdro2w2002ivc90co2n24lb",
+    "projectName": "Dinmanee ",
+    "city": "Pune",
+    "locality": "Shivajinagar",
+    "bhk": 3,
+    "price": 25400000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 1065,
+    "slug": "luxury-dinmanee--modelcolony-shivajinagar-pune-878430",
+    "builder": "Dinmanee Builders",
+    "fullAddress": "Dinmanee, Squadron Leader Sureshchandra Bhagwat Rd, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "pincode": "411016",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfdssd190037vc90paoxv29h",
+    "projectName": "Zoa Building - 2 Wing A",
+    "city": "Pune",
+    "locality": "Unknown Locality",
+    "bhk": 1,
+    "price": 7499000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 450,
+    "slug": "zoa-building-2-wing-a-keshavnagar-mundhwa-pune-757777",
+    "builder": "Zoa Builders",
+    "fullAddress": "Sr.no.36 Zoa, keshav nagar,Neatr renuka mata Temple Mundhwa, pune 411036",
+    "pincode": "411036",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfdu20970046vc90g587nym1",
+    "projectName": "Leela by Empyrean Landmarks - Phase 1 & 2",
+    "city": "Pune",
+    "locality": "Unknown Locality",
+    "bhk": 2,
+    "price": 13600000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 774,
+    "slug": "leela-by-empyrean-landmar-thitenagar-kharadi-pune-887385",
+    "builder": "Empyrean Landmarks - Phase 1 & 2",
+    "fullAddress": "Survey no. 18-19, plot no. p7, river road, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "pincode": "411014",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfxrvmuc0009qq138n0vk91p",
+    "projectName": "QUEENS PARK",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": 1,
+    "price": 10900000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Park"
+    ],
+    "area": 413.23,
+    "slug": "queens-park-subhashnagar-chembur-mumbai-554402",
+    "builder": "QUEENS Builders",
+    "fullAddress": "Building No 10, Subhash Nagar Redevelopment Cluster, Subhash Nagar, Chembur, Mumbai, Maharashtra 400071",
+    "pincode": "400071",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfxwmse70001qq0908yt6oar",
+    "projectName": "Queens Glory",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": null,
+    "price": 7944000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 331.85,
+    "slug": "queens-glory-subhashnagar-chembur-mumbai-539772",
+    "builder": "Queens Builders",
+    "fullAddress": "Building No 10, Subhash Nagar Redevelopment Cluster, Subhash Nagar, Chembur, Mumbai, Maharashtra 400071",
+    "pincode": "400076",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  },
+  {
+    "id": "cmfxxh08t0013qq09o0rajcrt",
+    "projectName": "Queens Avenue",
+    "city": "Mumbai",
+    "locality": "Chembur",
+    "bhk": 1,
+    "price": 10700000,
+    "possession": "Under Construction",
+    "amenities": [
+      "Security",
+      "Water Supply",
+      "Power Backup"
+    ],
+    "area": 396.97,
+    "slug": "queens-avenue-subhashnagar-chembur-mumbai-949624",
+    "builder": "Queens Builders",
+    "fullAddress": "Subhash Nagar, Chembur, Mumbai Harbour, Mumbai",
+    "pincode": "400076",
+    "projectType": "RESIDENTIAL",
+    "status": "UNDER_CONSTRUCTION"
+  }
+]
