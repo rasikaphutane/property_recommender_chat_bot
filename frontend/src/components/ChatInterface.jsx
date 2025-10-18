@@ -4,7 +4,7 @@ import PropertyCard from './PropertyCard';
 import './ChatInterface.css';
 
 // Add this line at the top - it will use the Render URL in production, localhost in development
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://property-recommender-chat-bot.onrender.com';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:3001';
 
 const ChatInterface = () => {
   const [messages, setMessages] = useState([]);
