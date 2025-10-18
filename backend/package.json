@@ -1,21 +1,41 @@
 {
   "name": "property-chatbot-backend",
   "version": "1.0.0",
+  "description": "Backend API for Property Recommendation Chat Bot with AI integration",
   "type": "module",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
-    "process-data": "node scripts/processData.js"
+    "process-data": "node scripts/processData.js",
+    "build": "echo 'No build step required for Node.js'",
+    "test": "echo 'No tests specified' && exit 0"
   },
+  "keywords": [
+    "property",
+    "chatbot",
+    "ai",
+    "groq",
+    "realestate",
+    "recommendation",
+    "google-ai"
+  ],
+  "author": "Rasika Phutane",
+  "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
     "cors": "^2.8.5",
     "csv-parser": "^3.0.0",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "groq-sdk": "^0.33.0"
+    "groq-sdk": "^0.33.0",
+    "helmet": "^7.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
   }
 }

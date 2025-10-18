@@ -1,0 +1,22 @@
+# render.yaml
+services:
+  - type: web
+    name: property-chat-bot-backend
+    env: node
+    plan: free
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: GROQ_API_KEY
+        fromGroup: groq-secrets
+      - key: PORT
+        value: 3001
+
+# Environment group for shared variables
+envVarGroups:
+  - name: groq-secrets
+    envVars:
+      - key: GROQ_API_KEY
+        value: your_groq_api_key_here
