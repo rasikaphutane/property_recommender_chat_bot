@@ -3,6 +3,9 @@ import React, { useState, useRef, useEffect } from 'react';
 import PropertyCard from './PropertyCard';
 import './ChatInterface.css';
 
+// Add this line at the top - it will use the Render URL in production, localhost in development
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001';
+
 const ChatInterface = () => {
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');
@@ -47,7 +50,8 @@ const ChatInterface = () => {
     }]);
 
     try {
-      const response = await fetch('http://localhost:3001/api/properties/chat', {
+      // UPDATED LINE: Use environment variable instead of hardcoded URL
+      const response = await fetch(`${API_BASE_URL}/api/properties/chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
